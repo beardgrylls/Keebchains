@@ -10,6 +10,6 @@ LAEla by HaiZeus and Dashkeebs
 
 Qazimodo by Scoot
 
-Chiff by ???
+Chiff by Tominabox1
 
 Detour by Andy at RNDKB.Com
