@@ -20,4 +20,4 @@ A repo to house all of the 30% and 40% keyboard keychain models for easy access 
 *(Put example image here)*
 
 
-Maybe a link to a guide on how to make these that can b made at a later date?
+## [Fusion 360 guide for making keebchains](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Keebchain%20Fusion%20Tutorial/readme.md)
