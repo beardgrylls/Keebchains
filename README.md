@@ -16,7 +16,7 @@ A repo to house all of the 30% and 40% keyboard keychain models for easy access 
 **Chiff by Tominabox1**
 *(Put example image here)*
 
-**Detour by Andy at RNDKB.Com**
+**Detour by Nachie**
 *(Put example image here)*
 
 
