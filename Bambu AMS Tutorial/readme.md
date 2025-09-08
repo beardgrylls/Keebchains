@@ -10,8 +10,8 @@ For this example I will use the [Denali keebchain model](https://github.com/Dash
    - Infill density
    - Infill pattern
    - Wall count
-   - Enable supports
-   #- *With my Bambu P1S using a 0.4mm nozzle and printing with PLA, I set my models up as 0.16 layers, 2 walls, 15% gyroid infill, supports enabled with default settings*
+   - Enable supports (Highly suggested)
+   - *With my Bambu P1S using a 0.4mm nozzle and printing with PLA, I set my models up as 0.16 layers, 2 walls, 15% gyroid infill, supports enabled with default settings*
 
 ## 3. Paint the model to utilize the AMS and multicolor prints
 
