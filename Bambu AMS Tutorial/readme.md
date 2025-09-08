@@ -1,8 +1,9 @@
 # How to do multicolor prints in Bambu Studio
 
 ## 1. Open Bambu Studio, create a new project, and load the model into the program
-For this example I will use the [Denali keebchain model](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Denali%20by%20HaiZeus/Model/Denali%20Keychain.stl)
+   - For this example I will use the [Denali keebchain model](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Denali%20by%20HaiZeus/Model/Denali%20Keychain.stl)
 ![Step1](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step1.PNG)
+   - *Ensure your model is flat on the bed!*
 
 ## 2. Set up your print settings with your preferences
 ### Common settings you may adjust are:
@@ -25,7 +26,7 @@ For this example I will use the [Denali keebchain model](https://github.com/Dash
 
 ![Step4](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step4.PNG)
 
-## 6. Ensure you have the amount of colors you'd like to use mirror the available project filaments
+## 4. Ensure you have the amount of colors you'd like to use mirror the available project filaments
    - For each AMS you have you will need 4 colors selected
 
 ![Step5](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step5.PNG)
@@ -43,4 +44,14 @@ For this example I will use the [Denali keebchain model](https://github.com/Dash
    - This is how mine end up for 2 color prints
 ![Step6.5](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.5.PNG)
 ![Step6.6](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.6.PNG)
-   - There is no right and wrong! There are more optomized ways to reduce filament waste and reduce print time, but if you have a vision have fun executing it
+
+## 6. If desired, duplicate the model on the plate to print more than one at one at a time
+![Step7](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step7.PNG)
+
+## 7. Slice the model(s) and review print time/filament use to ensure they are in a place you are happy with
+![Step8](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step8.PNG)
+
+## 8. Print and enjoy your new keebchain(s)!!!
+
+
+### **There is no right and wrong!** There are more optomized ways to reduce filament waste and reduce print time, but if you have a vision **have fun** executing it <3
