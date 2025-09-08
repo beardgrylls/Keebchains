@@ -2,7 +2,7 @@
 
 ## 1. Open Bambu Studio, create a new project, and load the model into the program
 For this example I will use the [Denali keebchain model](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Denali%20by%20HaiZeus/Model/Denali%20Keychain.stl)
-[Step1](Step1)
+![Step1](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step1.PNG)
 
 ## 2. Set up your print settings with your preferences
 ### Common settings you may adjust are:
