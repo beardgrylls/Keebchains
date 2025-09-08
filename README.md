@@ -19,5 +19,7 @@ A repo to house all of the 30% and 40% keyboard keychain models for easy access 
 **Detour by Nachie**
 *(Put example image here)*
 
+**Le Broke by newx**
+*(Put example image here)*
 
 ## [Fusion 360 guide for making keebchains](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Keebchain%20Fusion%20Tutorial/readme.md)
