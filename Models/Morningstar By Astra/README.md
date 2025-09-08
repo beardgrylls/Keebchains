@@ -3,4 +3,4 @@ Hey this is just a note because people are always asking what keyboard this is. 
 
 Morningstar files are in my github repo: https://github.com/sbkeebs/morningstar_stm
 
-![Morningstar photo with keychain](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Morningstar%20By%20Astra/PXL_20250904_185100019.jpg)
+![Morningstar photo with keychain](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Morningstar%20By%20Astra/Images/MorningStarAndKeebchain.jpg)
