@@ -36,3 +36,11 @@ For this example I will use the [Denali keebchain model](https://github.com/Dash
 ![Step6.1](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.1.png)
 ![Step6.2](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.2.png)
    - *Keep in mind the more colors you use and how often they switch will lead to higher print times and more filament waste from the AMS switching colors*
+   - Color the model to your preferences
+   - Take note of any small faces you may have missed
+![Step6.3](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.3.PNG)
+![Step6.4](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.4.PNG)
+   - This is how mine end up for 2 color prints
+![Step6.5](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.5.PNG)
+![Step6.6](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Bambu%20AMS%20Tutorial/Images/Step6.6.PNG)
+   - There is no right and wrong! There are more optomized ways to reduce filament waste and reduce print time, but if you have a vision have fun executing it
